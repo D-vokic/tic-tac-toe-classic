@@ -1,5 +1,7 @@
 # Tic Tac Toe React App
 
+[Live Demo](https://tic-tac-toe-dusko.netlify.app/)
+
 ![Tic Tac Toe Screenshot](./screenshot.png)
 
 A modern and interactive **Tic Tac Toe** game built with **React** and **Vite**.  
