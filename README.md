@@ -50,7 +50,6 @@ src/
 │ └── Player.css
 ├── App.jsx
 ├── index.jsx
-├── utils.js
 └── winning-combinations.js
 
 ```
