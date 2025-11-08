@@ -15,9 +15,7 @@ The goal of the project was to apply core React concepts through a hands-on exam
 - Player vs Player mode
 - Win and draw detection
 - Move history log
-- Light / Dark mode toggle
 - Editable player names
-- Game reset and name clearing
 
 ---
 
